@@ -8,7 +8,7 @@ import { ErrorDialogComponent } from 'src/app/shared/components/error-dialog/err
 @Component({
   selector: 'app-courses',
   templateUrl: './courses.component.html',
-  styleUrls: ['./courses.component.css']
+  styleUrls: ['./courses.component.css'],
 })
 export class CoursesComponent implements OnInit {
 
